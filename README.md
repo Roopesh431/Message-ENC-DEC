@@ -48,3 +48,6 @@ Export encoded/decoded text
 
 **RESULT**
 <img width="1407" height="790" alt="image" src="https://github.com/user-attachments/assets/66294cc2-e77f-4db4-87f3-67297d61b6e4" />
+
+**NOTE**
+**Past repository is trail and can be related and this is more refined code and shows better result than earlier.**
