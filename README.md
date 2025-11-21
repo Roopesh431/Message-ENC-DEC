@@ -45,3 +45,6 @@ Support multiple classical cipher algorithms
 Add dark mode and theme support
 
 Export encoded/decoded text
+
+**RESULT**
+<img width="1407" height="790" alt="image" src="https://github.com/user-attachments/assets/66294cc2-e77f-4db4-87f3-67297d61b6e4" />
